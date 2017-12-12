@@ -1,0 +1,13 @@
+C:\Users\Thunder\Desktop\TwinsPrograms\TwinsPrograms\bin\Debug\TwinsPrograms.exe.config
+C:\Users\Thunder\Desktop\TwinsPrograms\TwinsPrograms\bin\Debug\TwinsPrograms.exe
+C:\Users\Thunder\Desktop\TwinsPrograms\TwinsPrograms\bin\Debug\TwinsPrograms.pdb
+C:\Users\Thunder\Desktop\TwinsPrograms\TwinsPrograms\obj\Debug\TwinsPrograms.csprojResolveAssemblyReference.cache
+C:\Users\Thunder\Desktop\TwinsPrograms\TwinsPrograms\obj\Debug\TwinsPrograms.exe
+C:\Users\Thunder\Desktop\TwinsPrograms\TwinsPrograms\obj\Debug\TwinsPrograms.pdb
+C:\Users\Marleny Ferreira\Desktop\Programacion\TwinsPrograms\TwinsPrograms\bin\Debug\TwinsPrograms.exe.config
+C:\Users\Marleny Ferreira\Desktop\Programacion\TwinsPrograms\TwinsPrograms\bin\Debug\TwinsPrograms.exe
+C:\Users\Marleny Ferreira\Desktop\Programacion\TwinsPrograms\TwinsPrograms\bin\Debug\TwinsPrograms.pdb
+C:\Users\Marleny Ferreira\Desktop\Programacion\TwinsPrograms\TwinsPrograms\obj\Debug\TwinsPrograms.csprojResolveAssemblyReference.cache
+C:\Users\Marleny Ferreira\Desktop\Programacion\TwinsPrograms\TwinsPrograms\obj\Debug\TwinsPrograms.csproj.CoreCompileInputs.cache
+C:\Users\Marleny Ferreira\Desktop\Programacion\TwinsPrograms\TwinsPrograms\obj\Debug\TwinsPrograms.exe
+C:\Users\Marleny Ferreira\Desktop\Programacion\TwinsPrograms\TwinsPrograms\obj\Debug\TwinsPrograms.pdb
